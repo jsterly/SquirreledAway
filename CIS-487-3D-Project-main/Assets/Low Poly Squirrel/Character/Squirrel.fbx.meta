@@ -1,0 +1,3884 @@
+fileFormatVersion: 2
+guid: 81610c3843b56f44d9b28ea5c643bcc5
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Back1
+  - first:
+      1: 100002
+    second: Back2
+  - first:
+      1: 100004
+    second: Back3
+  - first:
+      1: 100006
+    second: Cube
+  - first:
+      1: 100008
+    second: Head
+  - first:
+      1: 100010
+    second: IK_Left_Foot_Back
+  - first:
+      1: 100012
+    second: IK_Left_Foot_Back_end
+  - first:
+      1: 100014
+    second: IK_Left_Foot_Front
+  - first:
+      1: 100016
+    second: IK_Left_Foot_Front_end
+  - first:
+      1: 100018
+    second: IK_Right_Foot_Back
+  - first:
+      1: 100020
+    second: IK_Right_Foot_Back_end
+  - first:
+      1: 100022
+    second: IK_Right_Foot_Front
+  - first:
+      1: 100024
+    second: IK_Right_Foot_Front_end
+  - first:
+      1: 100026
+    second: IK_Tail
+  - first:
+      1: 100028
+    second: IK_Tail_end
+  - first:
+      1: 100030
+    second: Left_Back_Foot1
+  - first:
+      1: 100032
+    second: Left_Back_Foot2
+  - first:
+      1: 100034
+    second: Left_Back_Foot3
+  - first:
+      1: 100036
+    second: Left_Back_Foot3_end
+  - first:
+      1: 100038
+    second: Left_Ear
+  - first:
+      1: 100040
+    second: Left_Ear_end
+  - first:
+      1: 100042
+    second: Left_Front_Foot1
+  - first:
+      1: 100044
+    second: Left_Front_Foot2
+  - first:
+      1: 100046
+    second: Left_Front_Foot3
+  - first:
+      1: 100048
+    second: Left_Front_Foot3_end
+  - first:
+      1: 100050
+    second: POLE_Left_Foot_Back
+  - first:
+      1: 100052
+    second: POLE_Left_Foot_Back_end
+  - first:
+      1: 100054
+    second: POLE_Left_Foot_Front
+  - first:
+      1: 100056
+    second: POLE_Left_Foot_Front_end
+  - first:
+      1: 100058
+    second: POLE_Right_Foot_Back
+  - first:
+      1: 100060
+    second: POLE_Right_Foot_Back_end
+  - first:
+      1: 100062
+    second: POLE_Right_Foot_Front
+  - first:
+      1: 100064
+    second: POLE_Right_Foot_Front_end
+  - first:
+      1: 100066
+    second: Right_Back_Foot1
+  - first:
+      1: 100068
+    second: Right_Back_Foot2
+  - first:
+      1: 100070
+    second: Right_Back_Foot3
+  - first:
+      1: 100072
+    second: Right_Back_Foot3_end
+  - first:
+      1: 100074
+    second: Right_Ear
+  - first:
+      1: 100076
+    second: Right_Ear_end
+  - first:
+      1: 100078
+    second: Right_Front_Foot1
+  - first:
+      1: 100080
+    second: Right_Front_Foot2
+  - first:
+      1: 100082
+    second: Right_Front_Foot3
+  - first:
+      1: 100084
+    second: Right_Front_Foot3_end
+  - first:
+      1: 100086
+    second: Root
+  - first:
+      1: 100088
+    second: //RootNode
+  - first:
+      1: 100090
+    second: Squirrel_Rig
+  - first:
+      1: 100092
+    second: Tail1
+  - first:
+      1: 100094
+    second: Tail2
+  - first:
+      1: 100096
+    second: Tail3
+  - first:
+      1: 100098
+    second: Tail4
+  - first:
+      1: 100100
+    second: Tail5
+  - first:
+      1: 100102
+    second: Tail6
+  - first:
+      1: 100104
+    second: Tail6_end
+  - first:
+      4: 400000
+    second: Back1
+  - first:
+      4: 400002
+    second: Back2
+  - first:
+      4: 400004
+    second: Back3
+  - first:
+      4: 400006
+    second: Cube
+  - first:
+      4: 400008
+    second: Head
+  - first:
+      4: 400010
+    second: IK_Left_Foot_Back
+  - first:
+      4: 400012
+    second: IK_Left_Foot_Back_end
+  - first:
+      4: 400014
+    second: IK_Left_Foot_Front
+  - first:
+      4: 400016
+    second: IK_Left_Foot_Front_end
+  - first:
+      4: 400018
+    second: IK_Right_Foot_Back
+  - first:
+      4: 400020
+    second: IK_Right_Foot_Back_end
+  - first:
+      4: 400022
+    second: IK_Right_Foot_Front
+  - first:
+      4: 400024
+    second: IK_Right_Foot_Front_end
+  - first:
+      4: 400026
+    second: IK_Tail
+  - first:
+      4: 400028
+    second: IK_Tail_end
+  - first:
+      4: 400030
+    second: Left_Back_Foot1
+  - first:
+      4: 400032
+    second: Left_Back_Foot2
+  - first:
+      4: 400034
+    second: Left_Back_Foot3
+  - first:
+      4: 400036
+    second: Left_Back_Foot3_end
+  - first:
+      4: 400038
+    second: Left_Ear
+  - first:
+      4: 400040
+    second: Left_Ear_end
+  - first:
+      4: 400042
+    second: Left_Front_Foot1
+  - first:
+      4: 400044
+    second: Left_Front_Foot2
+  - first:
+      4: 400046
+    second: Left_Front_Foot3
+  - first:
+      4: 400048
+    second: Left_Front_Foot3_end
+  - first:
+      4: 400050
+    second: POLE_Left_Foot_Back
+  - first:
+      4: 400052
+    second: POLE_Left_Foot_Back_end
+  - first:
+      4: 400054
+    second: POLE_Left_Foot_Front
+  - first:
+      4: 400056
+    second: POLE_Left_Foot_Front_end
+  - first:
+      4: 400058
+    second: POLE_Right_Foot_Back
+  - first:
+      4: 400060
+    second: POLE_Right_Foot_Back_end
+  - first:
+      4: 400062
+    second: POLE_Right_Foot_Front
+  - first:
+      4: 400064
+    second: POLE_Right_Foot_Front_end
+  - first:
+      4: 400066
+    second: Right_Back_Foot1
+  - first:
+      4: 400068
+    second: Right_Back_Foot2
+  - first:
+      4: 400070
+    second: Right_Back_Foot3
+  - first:
+      4: 400072
+    second: Right_Back_Foot3_end
+  - first:
+      4: 400074
+    second: Right_Ear
+  - first:
+      4: 400076
+    second: Right_Ear_end
+  - first:
+      4: 400078
+    second: Right_Front_Foot1
+  - first:
+      4: 400080
+    second: Right_Front_Foot2
+  - first:
+      4: 400082
+    second: Right_Front_Foot3
+  - first:
+      4: 400084
+    second: Right_Front_Foot3_end
+  - first:
+      4: 400086
+    second: Root
+  - first:
+      4: 400088
+    second: //RootNode
+  - first:
+      4: 400090
+    second: Squirrel_Rig
+  - first:
+      4: 400092
+    second: Tail1
+  - first:
+      4: 400094
+    second: Tail2
+  - first:
+      4: 400096
+    second: Tail3
+  - first:
+      4: 400098
+    second: Tail4
+  - first:
+      4: 400100
+    second: Tail5
+  - first:
+      4: 400102
+    second: Tail6
+  - first:
+      4: 400104
+    second: Tail6_end
+  - first:
+      43: 4300000
+    second: Cube
+  - first:
+      74: 7400000
+    second: Run_straight
+  - first:
+      74: 7400002
+    second: SquirrelAnimation
+  - first:
+      74: 7400004
+    second: Run_turn_right
+  - first:
+      74: 7400006
+    second: Run_turn_left
+  - first:
+      74: 7400008
+    second: Walk_straight
+  - first:
+      74: 7400010
+    second: Walk_turn_right
+  - first:
+      74: 7400012
+    second: Walk_turn_left
+  - first:
+      74: 7400014
+    second: Hop
+  - first:
+      74: 7400016
+    second: Idle_1
+  - first:
+      74: 7400018
+    second: Idle_2
+  - first:
+      74: 7400020
+    second: Idle_3
+  - first:
+      74: 7400022
+    second: Eat_start
+  - first:
+      74: 7400024
+    second: Eat_loop
+  - first:
+      74: 7400026
+    second: Eat_end
+  - first:
+      74: 7400028
+    second: Jump_start
+  - first:
+      74: 7400030
+    second: Jump_loop
+  - first:
+      74: 7400032
+    second: Jump_end
+  - first:
+      74: 7400034
+    second: Sleep_start
+  - first:
+      74: 7400036
+    second: Sleep_loop
+  - first:
+      74: 7400038
+    second: Sleep_end
+  - first:
+      74: 7400040
+    second: Turn_around_right
+  - first:
+      74: 7400042
+    second: Turn_around_left
+  - first:
+      74: 7400044
+    second: Climb_straight
+  - first:
+      74: 7400046
+    second: Climb_turn_right
+  - first:
+      74: 7400048
+    second: Climb_turn_left
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Mat
+    second: {fileID: 2100000, guid: 161e3b0ea8aa1a040948e11eb398b747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Squirrel_Mat
+    second: {fileID: 2100000, guid: 522e7684cf0f0eb4d8ea764617653f76, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SquirrelAnimation
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_straight
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_turn_right
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1060
+      lastFrame: 1085
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_turn_left
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1095
+      lastFrame: 1120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_straight
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 45
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_turn_right
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1170
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_turn_left
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1130
+      lastFrame: 1160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hop
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 705
+      lastFrame: 737
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_1
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 85
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_2
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 185
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_3
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 330
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat_start
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 475
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat_loop
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 500
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat_end
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 670
+      lastFrame: 695
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_start
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 745
+      lastFrame: 775
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_loop
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 775
+      lastFrame: 833
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_end
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 833
+      lastFrame: 852
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sleep_start
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 860
+      lastFrame: 928
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sleep_loop
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 928
+      lastFrame: 980
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sleep_end
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 980
+      lastFrame: 1048
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn_around_right
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1210
+      lastFrame: 1240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn_around_left
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1250
+      lastFrame: 1280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Climb_straight
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1290
+      lastFrame: 1315
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Climb_turn_right
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1325
+      lastFrame: 1350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Climb_turn_left
+      takeName: Squirrel_Rig|Squirrel_RigAction
+      internalID: 0
+      firstFrame: 1360
+      lastFrame: 1385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Squirrel_Rig
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Back/IK_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Left_Foot_Front/IK_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Back/IK_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/IK_Right_Foot_Front/IK_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail
+        weight: 1
+      - path: Squirrel_Rig/IK_Tail/IK_Tail_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Back/POLE_Left_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Left_Foot_Front/POLE_Left_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Back/POLE_Right_Foot_Back_end
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front
+        weight: 1
+      - path: Squirrel_Rig/POLE_Right_Foot_Front/POLE_Right_Foot_Front_end
+        weight: 1
+      - path: Squirrel_Rig/Root
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Back3/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail6_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Left_Back_Foot1/Left_Back_Foot2/Left_Back_Foot3/Left_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Back1/Back2/Right_Back_Foot1/Right_Back_Foot2/Right_Back_Foot3/Right_Back_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Left_Ear/Left_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear
+        weight: 1
+      - path: Squirrel_Rig/Root/Head/Right_Ear/Right_Ear_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Left_Front_Foot1/Left_Front_Foot2/Left_Front_Foot3/Left_Front_Foot3_end
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3
+        weight: 1
+      - path: Squirrel_Rig/Root/Right_Front_Foot1/Right_Front_Foot2/Right_Front_Foot3/Right_Front_Foot3_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
